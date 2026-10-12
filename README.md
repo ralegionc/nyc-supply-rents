@@ -107,6 +107,8 @@ inherits this and mostly does not say so.
 
 ## Data
 
+> The raw inputs are not in this repository. [DATA.md](DATA.md) records exactly which files were used, with sizes and fingerprints, and how to re-fetch them.
+
 All sources are public and require no authentication (verified 2026-08-23).
 
 | Piece | Source | Scale |
